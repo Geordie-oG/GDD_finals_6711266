@@ -12,3 +12,5 @@
 *.booproj
 *.unitypackage
 .DS_Store
+.vscode/
+*.slnx
