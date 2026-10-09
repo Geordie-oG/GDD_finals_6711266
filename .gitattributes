@@ -1,0 +1,5 @@
+# Unity serializes empty YAML values with a trailing space. Preserve those
+# generated files without reporting false-positive whitespace errors.
+*.asset -whitespace
+*.meta -whitespace
+*.unity -whitespace
